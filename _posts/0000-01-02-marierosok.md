@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Something new
-Use the left arrow to go back!
+And
+use the left arrow to go back again!
+Congratulations! You are stuck in an infinite loop
